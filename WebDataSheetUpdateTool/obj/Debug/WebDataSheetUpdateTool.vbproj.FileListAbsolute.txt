@@ -1,0 +1,11 @@
+C:\src_code\WebDataSheetUpdateTool\bin\Debug\WebDataSheetUpdateTool.exe
+C:\src_code\WebDataSheetUpdateTool\bin\Debug\WebDataSheetUpdateTool.pdb
+C:\src_code\WebDataSheetUpdateTool\bin\Debug\WebDataSheetUpdateTool.xml
+C:\src_code\WebDataSheetUpdateTool\obj\Debug\ResolveAssemblyReference.cache
+C:\src_code\WebDataSheetUpdateTool\obj\Debug\WebDataSheetUpdateTool.Form1.resources
+C:\src_code\WebDataSheetUpdateTool\obj\Debug\WebDataSheetUpdateTool.Resources.resources
+C:\src_code\WebDataSheetUpdateTool\obj\Debug\WebDataSheetUpdateTool.vbproj.GenerateResource.Cache
+C:\src_code\WebDataSheetUpdateTool\obj\Debug\WebDataSheetUpdateTool.exe
+C:\src_code\WebDataSheetUpdateTool\obj\Debug\WebDataSheetUpdateTool.xml
+C:\src_code\WebDataSheetUpdateTool\obj\Debug\WebDataSheetUpdateTool.pdb
+C:\src_code\WebDataSheetUpdateTool\obj\Debug\WebDataSheetUpdateTool.vbproj.ResolveComReference.cache

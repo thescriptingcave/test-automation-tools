@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="WebDataSheetUpdateTool.exe" version="1.0.0.0" publicKeyToken="05847920f49d0523" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="WebDataSheetUpdateTool" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="WebDataSheetUpdateTool.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Office.Interop.Excel" version="14.0.0.0" publicKeyToken="71E9BCE111E9429C" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Vbe.Interop" version="14.0.0.0" publicKeyToken="71E9BCE111E9429C" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="office" version="14.0.0.0" publicKeyToken="71E9BCE111E9429C" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WebDataSheetUpdateTool.exe" size="26624">
+      <assemblyIdentity name="WebDataSheetUpdateTool" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>yXVa+uDTvqhbz3/c8RRqD9YUIJc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=EDD_DOMAIN\RHarding" issuerKeyHash="3dfb9f4bf3de84acc63fb3bb875249b4dba22f31" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>PJOaK0DNagXIZkXXi3TyiPscBBI=</DigestValue></Reference></SignedInfo><SignatureValue>V+mH2tNLfro13V8LvPzHGN0MZBnIdX2jp/RHvdCc6aQtm14Qz4n5dDBn6zO6KWXKRBrWlbuX0WcD1J8va7Xq/i2JrGwln/uaq4uqFApRjsWnIPc5xZpuZPPwmgm4W/T8WXptlveYLupSS8iqKxsj+H/BpCYkhHh4dDFDZxca9To=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>z0L4RksJ0xV9EtrqQMrPT6Gw2bZ/Uwr7gmtxjOqn96n8Qc1rJHxlcJbz3SCRTS7t1p4cfjSmLC7wv5RigQzQ5aD1CtEb8/2LLhxT+db156ycu1CQjME/R+KjfMLyWRsN9m7VC70hrII92UJ2faJ3IagukKUmDWtXPdqiDov3Ymc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="12041cfb88f2748bd74566c8056acd402b9a933c" Description="" Url=""><as:assemblyIdentity name="WebDataSheetUpdateTool.exe" version="1.0.0.0" publicKeyToken="05847920f49d0523" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=EDD_DOMAIN\RHarding</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>qJUZaDJEIwFq/MiJJnZjf9gyzUA=</DigestValue></Reference></SignedInfo><SignatureValue>NWqqgnORaeaGCYPsVsQZkDFpdVYpDKLK/pttjRF92vJTg7QJz9nw2mQePqX9Ogl7y0DyPxkeL72+p+qZW44tNTjAGSa3FmBs7WKYbq+CjjlI8JAjJ2qjtVOvcOYzPu0MR09+bGUMlh9CFmFIjVUwQbEU8n14KDBmYdEuRkRGtiw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>z0L4RksJ0xV9EtrqQMrPT6Gw2bZ/Uwr7gmtxjOqn96n8Qc1rJHxlcJbz3SCRTS7t1p4cfjSmLC7wv5RigQzQ5aD1CtEb8/2LLhxT+db156ycu1CQjME/R+KjfMLyWRsN9m7VC70hrII92UJ2faJ3IagukKUmDWtXPdqiDov3Ymc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUqgAwIBAgIQHl6Uet/u/ZZONQBZ3M93/zAJBgUrDgMCHQUAMDExLzAtBgNVBAMeJgBFAEQARABfAEQATwBNAEEASQBOAFwAUgBIAGEAcgBkAGkAbgBnMB4XDTEzMDExNjE2MDY0NFoXDTE0MDExNjIyMDY0NFowMTEvMC0GA1UEAx4mAEUARABEAF8ARABPAE0AQQBJAE4AXABSAEgAYQByAGQAaQBuAGcwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAM9C+EZLCdMVfRLa6kDKz0+hsNm2f1MK+4JrcYzqp/ep/EHNayR8ZXCW890gkU0u7daeHH40piwu8L+UYoEM0OWg9QrRG/P9iy4cU/nW9eesnLtQkIzBP0fio3zC8lkbDfZu1Qu9IayCPdlCdn2idyGoLpClJg1rVz3aog6L92JnAgMBAAEwCQYFKw4DAh0FAAOBgQByyd8ZseZ+ZX4T2CjbGwjFImyVIhCXFG0SkKgi2Jvit9/1wuCWYZDSSETQXKrAkzAAOJTQkftPf9PpTLnto3XHGBgg1xS7hwd6uK2rQCheU6FwH0X0NmAqHlLHHPs3lYS/vN92iJMOcbTi2KBx3QNH2aEaxw1dW/0rRPqI/Cr/lg==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
