@@ -1,0 +1,17 @@
+C:\src_code\DSGXML\obj\Release\DSGXML.vbproj.ResolveComReference.cache
+C:\src_code\DSGXML\bin\Release\DSGXML.exe.manifest
+C:\src_code\DSGXML\bin\Release\DSGXML.application
+C:\src_code\DSGXML\bin\Release\DSGXML.exe
+C:\src_code\DSGXML\bin\Release\DSGXML.pdb
+C:\src_code\DSGXML\bin\Release\DSGXML.xml
+C:\src_code\DSGXML\obj\Release\ResolveAssemblyReference.cache
+C:\src_code\DSGXML\obj\Release\DSGXML.Form1.resources
+C:\src_code\DSGXML\obj\Release\DSGXML.Form2.resources
+C:\src_code\DSGXML\obj\Release\DSGXML.Form3.resources
+C:\src_code\DSGXML\obj\Release\DSGXML.Resources.resources
+C:\src_code\DSGXML\obj\Release\DSGXML.vbproj.GenerateResource.Cache
+C:\src_code\DSGXML\obj\Release\DSGXML.exe.manifest
+C:\src_code\DSGXML\obj\Release\DSGXML.application
+C:\src_code\DSGXML\obj\Release\DSGXML.exe
+C:\src_code\DSGXML\obj\Release\DSGXML.xml
+C:\src_code\DSGXML\obj\Release\DSGXML.pdb
