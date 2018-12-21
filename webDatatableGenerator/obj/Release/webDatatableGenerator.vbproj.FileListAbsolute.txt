@@ -1,0 +1,17 @@
+C:\src_code\webDatatableGenerator\obj\Release\Interop.Scripting.dll
+C:\src_code\webDatatableGenerator\obj\Release\webDatatableGenerator.vbproj.ResolveComReference.cache
+C:\src_code\webDatatableGenerator\bin\Release\webDatatableGenerator.exe.manifest
+C:\src_code\webDatatableGenerator\bin\Release\webDatatableGenerator.application
+C:\src_code\webDatatableGenerator\bin\Release\webDatatableGenerator.exe
+C:\src_code\webDatatableGenerator\bin\Release\webDatatableGenerator.pdb
+C:\src_code\webDatatableGenerator\bin\Release\webDatatableGenerator.xml
+C:\src_code\webDatatableGenerator\bin\Release\Interop.Scripting.dll
+C:\src_code\webDatatableGenerator\obj\Release\ResolveAssemblyReference.cache
+C:\src_code\webDatatableGenerator\obj\Release\webDatatableGenerator.form1.resources
+C:\src_code\webDatatableGenerator\obj\Release\webDatatableGenerator.Resources.resources
+C:\src_code\webDatatableGenerator\obj\Release\webDatatableGenerator.vbproj.GenerateResource.Cache
+C:\src_code\webDatatableGenerator\obj\Release\webDatatableGenerator.exe.manifest
+C:\src_code\webDatatableGenerator\obj\Release\webDatatableGenerator.application
+C:\src_code\webDatatableGenerator\obj\Release\webDatatableGenerator.exe
+C:\src_code\webDatatableGenerator\obj\Release\webDatatableGenerator.xml
+C:\src_code\webDatatableGenerator\obj\Release\webDatatableGenerator.pdb
